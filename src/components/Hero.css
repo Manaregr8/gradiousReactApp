@@ -201,6 +201,23 @@
 .circle.offline {
   background-color: gray;
 }
+.skillTag {
+  display: inline-block;
+  background-color: #eee;
+  padding: 4px 8px;
+  margin: 4px 4px 0 0;
+  border-radius: 12px;
+  font-size: 12px;
+}
+
+.circle.online {
+  background-color: green;
+}
+
+.circle.offline {
+  background-color: gray;
+}
+
 @media(max-width:886px){
  .hero .container{
     width: 100%;

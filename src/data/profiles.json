@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Manjeet Singh",
+      "age": 22,
+      "location": "India, Delhi-110059",
+      "image": "https://i.ibb.co/v468tGB4/f154da6a5577947ab19cf2766830ba9e.jpg",
+      "skills": ["React", "Node.js", "Firebase"],
+      "isOnline": true
+    },
+    {
+      "name": "Aisha Verma",
+      "age": 25,
+      "location": "India, Mumbai-400001",
+      "image": "https://randomuser.me/api/portraits/women/65.jpg",
+      "skills": ["Figma", "UX Design", "HTML"],
+      "isOnline": false,
+      "lastSeen": "2025-04-16T09:00:00Z"
+    },
+    {
+      "name": "Rahul Mehra",
+      "age": 28,
+      "location": "India, Bangalore-560001",
+      "image": "https://randomuser.me/api/portraits/men/42.jpg",
+      "skills": ["Java", "Spring Boot", "MySQL"],
+      "isOnline": false,
+      "lastSeen": "2025-04-14T12:30:00Z"
+    },
+    {
+      "name": "Sneha Kapoor",
+      "age": 23,
+      "location": "India, Pune-411001",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "skills": ["Python", "ML", "TensorFlow"],
+      "isOnline": true
+    },
+    {
+      "name": "Karan Thakur",
+      "age": 26,
+      "location": "India, Chandigarh-160036",
+      "image": "https://randomuser.me/api/portraits/men/60.jpg",
+      "skills": ["Go", "Docker", "Kubernetes"],
+      "isOnline": false,
+      "lastSeen": "2025-04-07T08:15:00Z"
+    },
+    {
+      "name": "Neha Sharma",
+      "age": 24,
+      "location": "India, Jaipur-302001",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "skills": ["C++", "DSA", "Competitive Coding"],
+      "isOnline": false,
+      "lastSeen": "2025-04-16T04:15:00Z"
+    }
+  ]
+  
