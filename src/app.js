@@ -6,7 +6,7 @@ import Projects from './components/project';
 import Skills from './components/skills';
 import Footer from './components/Footer';
 import Team from './components/TeamCard';
-
+import Counter from "./components/Counter";
 function App(){
     return (
         <Router>
@@ -23,6 +23,11 @@ function App(){
                     <>
                     <About/>
                     <Team/>
+                    </>
+                }/>
+                <Route path='/counter' element={
+                    <>
+                    <Counter/>
                     </>
                 }/>
             </Routes>
