@@ -7,6 +7,7 @@ import Skills from './components/skills';
 import Footer from './components/Footer';
 import Team from './components/TeamCard';
 import Counter from "./components/Counter";
+import Todos from "./components/todos";
 function App(){
     return (
         <Router>
@@ -28,6 +29,11 @@ function App(){
                 <Route path='/counter' element={
                     <>
                     <Counter/>
+                    </>
+                }/>
+                <Route path='/todos' element={
+                    <>
+                    <Todos/>
                     </>
                 }/>
             </Routes>
