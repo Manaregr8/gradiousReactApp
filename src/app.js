@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 import Team from './components/TeamCard';
 import Counter from "./components/Counter";
 import Todos from "./components/todos";
+import CardDetail from './components/cardDetails';
 function App(){
     return (
         <Router>
@@ -36,6 +37,7 @@ function App(){
                     <Todos/>
                     </>
                 }/>
+                <Route path="/card/:id" element={<CardDetail />} />
             </Routes>
             <Footer/>
         </Router>

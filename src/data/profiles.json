@@ -1,6 +1,7 @@
 [
     {
       "name": "Manjeet Singh",
+      "id" : 1,
       "age": 22,
       "location": "India, Delhi-110059",
       "image": "https://i.ibb.co/v468tGB4/f154da6a5577947ab19cf2766830ba9e.jpg",
@@ -9,6 +10,7 @@
     },
     {
       "name": "Aisha Verma",
+      "id" : 2,
       "age": 25,
       "location": "India, Mumbai-400001",
       "image": "https://randomuser.me/api/portraits/women/65.jpg",
@@ -18,6 +20,7 @@
     },
     {
       "name": "Rahul Mehra",
+      "id" : 3,
       "age": 28,
       "location": "India, Bangalore-560001",
       "image": "https://randomuser.me/api/portraits/men/42.jpg",
@@ -27,6 +30,7 @@
     },
     {
       "name": "Sneha Kapoor",
+      "id" : 4,
       "age": 23,
       "location": "India, Pune-411001",
       "image": "https://randomuser.me/api/portraits/women/44.jpg",
@@ -35,6 +39,7 @@
     },
     {
       "name": "Karan Thakur",
+      "id" : 5,
       "age": 26,
       "location": "India, Chandigarh-160036",
       "image": "https://randomuser.me/api/portraits/men/60.jpg",
@@ -44,6 +49,7 @@
     },
     {
       "name": "Neha Sharma",
+      "id" : 6,
       "age": 24,
       "location": "India, Jaipur-302001",
       "image": "https://randomuser.me/api/portraits/women/12.jpg",
